@@ -1,7 +1,5 @@
 # Тотальный `React` :metal:
 
-# :x: Нет войне:heavy_exclamation_mark: No war:heavy_exclamation_mark:
-
 ## Ресурс для изучения `React.js` и связанных с ним технологий
 
 ### :heavy_exclamation_mark: Друзья, рад сообщить о запуске моего сайта с существенно переработанными, исправленными и дополненными материалами из данного репозитория, а также блога по разработке приложений на JavaScript, React, Next.js, TypeScript, Node.js и других технологиях: [MyJavaScript](https://my-js.org).
